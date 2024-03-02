@@ -1,0 +1,27 @@
+
+body{
+	background: yellow;
+}
+
+#para1{
+	color: blue;
+}
+
+h1{
+	text-align: center;
+	color: blue;
+	
+	}
+
+.forma{
+	color: green;
+}
+
+*{
+	color: red;
+}
+
+
+h2,h3{
+	text-align: center;
+}
